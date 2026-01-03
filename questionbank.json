@@ -1,0 +1,3002 @@
+[
+  {
+    "question": "某APP更新後功能變多但操作變複雜，屬於UX哪個問題",
+    "options": {
+      "A": "易學性",
+      "B": "使用效率",
+      "C": "可記憶性",
+      "D": "錯誤率"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "某介面第一次使用就能理解，屬於Nielsen可用性原則哪一項",
+    "options": {
+      "A": "貼近真實世界",
+      "B": "簡約設計",
+      "C": "預防錯誤",
+      "D": "彈性效率"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "按鈕太小導致誤觸，最相關的人機互動理論為",
+    "options": {
+      "A": "Hick定律",
+      "B": "米勒定律",
+      "C": "費茲定律",
+      "D": "格式塔原則"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "電商結帳步驟過多屬於哪種設計問題",
+    "options": {
+      "A": "操作提示",
+      "B": "流程效率",
+      "C": "可辨識性",
+      "D": "視覺階層"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "使用者理解按鈕功能但仍操作失敗，最可能是Signifier還是Affordance問題",
+    "options": {
+      "A": "Affordance不足",
+      "B": "無關",
+      "C": "Signifier不足",
+      "D": "硬體限制"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "加入清楚導覽最提升哪項UX指標",
+    "options": {
+      "A": "可學習性",
+      "B": "效率",
+      "C": "娛樂性",
+      "D": "安全性"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "介面畫面好看但缺乏一致性，違反哪個原則",
+    "options": {
+      "A": "簡約原則",
+      "B": "一致性",
+      "C": "可及性",
+      "D": "魅力性"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "重新設計後使用者抱怨下降，主要改善自",
+    "options": {
+      "A": "UX流程",
+      "B": "UI外觀",
+      "C": "硬體效能",
+      "D": "縮短文字"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "醫療系統難用導致醫護變慢，違反HCI哪個核心精神",
+    "options": {
+      "A": "效率優先",
+      "B": "科技導向",
+      "C": "以人為中心",
+      "D": "功能最大化"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "動畫過多導致操作變慢，對UX影響",
+    "options": {
+      "A": "正面",
+      "B": "負面",
+      "C": "無影響",
+      "D": "不確定"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "灰掉不可按按鈕屬於哪種設計概念",
+    "options": {
+      "A": "Affordance",
+      "B": "回饋",
+      "C": "一致性",
+      "D": "預防錯誤"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "完成動作有聲音或震動提示屬於",
+    "options": {
+      "A": "Affordance",
+      "B": "Signifier",
+      "C": "回饋",
+      "D": "映射"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "相同功能按鈕需相同設計屬於",
+    "options": {
+      "A": "一致性",
+      "B": "可發現性",
+      "C": "可記憶性",
+      "D": "可靠性"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "把常用功能放在拇指易觸區屬於哪個概念",
+    "options": {
+      "A": "認知負荷",
+      "B": "拇指區",
+      "C": "心智模型",
+      "D": "資訊架構"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "使用方式符合使用者原本理解稱為",
+    "options": {
+      "A": "心智模型",
+      "B": "認知匹配",
+      "C": "設計模版",
+      "D": "概念模型"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "規劃資訊層級屬於哪個領域",
+    "options": {
+      "A": "UI設計",
+      "B": "視覺設計",
+      "C": "資訊架構",
+      "D": "視覺階層"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "使用者不確定下一步要按哪裡，是缺少什麼",
+    "options": {
+      "A": "Affordance",
+      "B": "明確Signifier",
+      "C": "回饋",
+      "D": "美感"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "同設計跨手機平板桌機一致屬於",
+    "options": {
+      "A": "品牌設計",
+      "B": "隨機設計",
+      "C": "跨平台一致",
+      "D": "系統配對"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "操作負擔過重導致放棄使用與哪個概念最相關",
+    "options": {
+      "A": "Affordance",
+      "B": "認知負荷",
+      "C": "資訊架構",
+      "D": "美感"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "新手模式簡化、老手模式完整，屬於",
+    "options": {
+      "A": "彈性與效率",
+      "B": "辨識優於記憶",
+      "C": "一致性",
+      "D": "回饋"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "流程理解但太慢，主要是Efficiency問題",
+    "options": {
+      "A": "UI問題",
+      "B": "安全問題",
+      "C": "效率問題",
+      "D": "可理解性問題"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "用生活語言取代技術術語屬於",
+    "options": {
+      "A": "系統貼近真實世界",
+      "B": "錯誤處理",
+      "C": "資訊架構",
+      "D": "品牌策略"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "長期使用仍舒適屬於哪個UX向度",
+    "options": {
+      "A": "易學性",
+      "B": "滿意度",
+      "C": "效率",
+      "D": "一致性"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "畫面好看但錯誤提示不清楚評價為",
+    "options": {
+      "A": "UI好UX差",
+      "B": "UI差UX好",
+      "C": "UI好UX差",
+      "D": "都差"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "HCI核心研究主體是",
+    "options": {
+      "A": "電腦",
+      "B": "人與科技互動",
+      "C": "公司",
+      "D": "硬體"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "更新每次都大改UI違反",
+    "options": {
+      "A": "一致性與可學習性",
+      "B": "魅力度",
+      "C": "創新規則",
+      "D": "簡約原則"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "把常用功能放顯眼位置屬於",
+    "options": {
+      "A": "安全設計",
+      "B": "娛樂設計",
+      "C": "易用性優化",
+      "D": "品牌UI"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "功能強但步驟過多時UX會如何",
+    "options": {
+      "A": "變好",
+      "B": "下降",
+      "C": "不變",
+      "D": "無法判斷"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "開發前訪談與觀察屬於",
+    "options": {
+      "A": "使用者研究",
+      "B": "商業測試",
+      "C": "伺服器測試",
+      "D": "UI原型"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "增加動畫提升情緒連結主要提升",
+    "options": {
+      "A": "情緒體驗",
+      "B": "安全",
+      "C": "速度",
+      "D": "硬體能力"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "只顯示「Error」缺乏什麼",
+    "options": {
+      "A": "清楚回饋",
+      "B": "美感",
+      "C": "資訊架構",
+      "D": "安全"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "良好UX最大直接影響",
+    "options": {
+      "A": "使用者回流與滿意",
+      "B": "公司形象",
+      "C": "網速變快",
+      "D": "效能提升"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "以下哪項不是好UI原則",
+    "options": {
+      "A": "清楚",
+      "B": "一致",
+      "C": "可辨識",
+      "D": "刻意複雜"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "簡單清楚版面有助降低",
+    "options": {
+      "A": "認知負荷",
+      "B": "安全風險",
+      "C": "耗電",
+      "D": "伺服器壓力"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "UX評估最重要依據",
+    "options": {
+      "A": "使用者實際行為與感受",
+      "B": "企業需求",
+      "C": "程式複雜度",
+      "D": "硬體限制"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "教學導覽最直接提升",
+    "options": {
+      "A": "可學習性",
+      "B": "效率",
+      "C": "安全",
+      "D": "娛樂"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "UX與UI關係",
+    "options": {
+      "A": "UX包含UI",
+      "B": "無關",
+      "C": "UI包含UX",
+      "D": "對立"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "UI錯誤最常造成",
+    "options": {
+      "A": "誤觸與困惑",
+      "B": "系統毀壞",
+      "C": "網速變慢",
+      "D": "成本增加"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "最可靠UX評估方法",
+    "options": {
+      "A": "使用者測試",
+      "B": "看畫面",
+      "C": "看程式",
+      "D": "看規格"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "HCI最終目標",
+    "options": {
+      "A": "科技人性化",
+      "B": "科技複雜化",
+      "C": "科技貴化",
+      "D": "限制使用者"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "相同功能按鈕外觀一致屬於",
+    "options": {
+      "A": "一致性",
+      "B": "效率",
+      "C": "安全",
+      "D": "美感"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "UX與哪學科關係最深",
+    "options": {
+      "A": "心理學與人因工程",
+      "B": "化學",
+      "C": "醫學",
+      "D": "建築"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "對HCI影響最小的是",
+    "options": {
+      "A": "心理",
+      "B": "設計",
+      "C": "天文",
+      "D": "工程"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "UI是",
+    "options": {
+      "A": "人與系統溝通介面",
+      "B": "資料中樞",
+      "C": "伺服器核心",
+      "D": "程式引擎"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "UX是",
+    "options": {
+      "A": "完整體驗過程",
+      "B": "技術",
+      "C": "工具",
+      "D": "視覺"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "減少步驟最直接改善",
+    "options": {
+      "A": "效率",
+      "B": "美感",
+      "C": "成本",
+      "D": "硬體"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "畫面漂亮但難用代表",
+    "options": {
+      "A": "UI好UX差",
+      "B": "UX好UI差",
+      "C": "都好",
+      "D": "都差"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "常見UX評估方法是",
+    "options": {
+      "A": "使用者測試",
+      "B": "看程式",
+      "C": "測電流",
+      "D": "看系統紀錄"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "HCI最大價值是",
+    "options": {
+      "A": "科技貼近人",
+      "B": "科技控制人",
+      "C": "提高成本",
+      "D": "只給專家"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "HCI核心精神",
+    "options": {
+      "A": "以人為中心",
+      "B": "以科技為中心",
+      "C": "以公司為中心",
+      "D": "以系統為中心"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若一個網站首頁找不到主功能，主要違反哪個概念",
+    "options": {
+      "A": "Information Architecture資訊架構",
+      "B": "資訊架構不清",
+      "C": "Responsive Design響應式設計",
+      "D": "資料庫結構"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "HTML在Web中的主要角色是什麼",
+    "options": {
+      "A": "HyperText Markup Language，負責網頁結構",
+      "B": "樣式設計程式語言",
+      "C": "動態互動引擎",
+      "D": "伺服器作業系統"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "CSS (Cascading Style Sheets) 主要用來做什麼",
+    "options": {
+      "A": "設計資料庫",
+      "B": "管理網路連線",
+      "C": "控制版面與視覺樣式",
+      "D": "管理伺服器"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "JavaScript在Web前端的主要角色是",
+    "options": {
+      "A": "建立靜態文字",
+      "B": "負責互動邏輯與動態行為",
+      "C": "增加圖片解析度",
+      "D": "負責後端資料庫"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "若一個頁面HTML結構語意化良好，例如使用<header><nav><main>等標籤，主要好處是",
+    "options": {
+      "A": "有助可及性與SEO並讓結構更清楚",
+      "B": "讓伺服器運算變快很多",
+      "C": "一定讓顏色更漂亮",
+      "D": "避免撰寫任何CSS"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "RWD (Responsive Web Design) 響應式網頁設計的核心目標是",
+    "options": {
+      "A": "根據使用者帳號調整顏色",
+      "B": "根據時間改變內容",
+      "C": "根據裝置螢幕大小自動調整版面",
+      "D": "只支援桌機"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "SPA (Single Page Application) 單頁應用的特色是",
+    "options": {
+      "A": "網站每次操作都重新載入整頁",
+      "B": "多數互動在同一頁以動態更新",
+      "C": "部分內容僅能離線使用",
+      "D": "只能在手機使用"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Web中的Navigation導覽設計主要在幫助",
+    "options": {
+      "A": "使用者理解資訊架構與所在位置",
+      "B": "伺服器節省記憶體",
+      "C": "設計師減少工作量",
+      "D": "僅作為視覺裝飾"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若網站導覽階層過深會增加哪種負擔",
+    "options": {
+      "A": "Cognitive Load認知負荷",
+      "B": "記憶負荷",
+      "C": "認知與記憶負擔",
+      "D": "電力負荷"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Wireframe線框圖在網頁設計流程中的角色是",
+    "options": {
+      "A": "高畫質成品設計",
+      "B": "先規劃結構與資訊位置",
+      "C": "再產生伺服器程式",
+      "D": "設定資料庫索引"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "若使用者在網站中永遠知道自己在哪一頁，這與哪個概念最相關",
+    "options": {
+      "A": "Breadcrumb麵包屑導覽",
+      "B": "硬體導覽",
+      "C": "伺服器導覽",
+      "D": "動畫導覽"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若按鈕外觀與位置保持一致，是屬於哪個UI原則",
+    "options": {
+      "A": "美感優先",
+      "B": "隨機性",
+      "C": "Randomness",
+      "D": "Consistency一致性"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "使用顯著顏色與大小強調主按鈕屬於哪種設計",
+    "options": {
+      "A": "Visual Hierarchy視覺階層",
+      "B": "資料探勘Data Mining",
+      "C": "資料壓縮",
+      "D": "安全設定"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "使用alt文字描述圖片主要與哪個議題最相關",
+    "options": {
+      "A": "Web Accessibility網頁可及性",
+      "B": "資料庫備份",
+      "C": "硬體效能",
+      "D": "網路頻寬"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若網站只靠顏色區分資訊而沒有文字或圖示輔助，可能影響",
+    "options": {
+      "A": "Accessibility可及性",
+      "B": "效能",
+      "C": "儲存空間",
+      "D": "廣告收入"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "使用者在手機上瀏覽若字太小、按鈕太密集，主要是忽略了哪種設計",
+    "options": {
+      "A": "只設計桌機版",
+      "B": "Mobile First行動優先",
+      "C": "Database First資料庫優先",
+      "D": "只考慮印刷版"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "對初學者來說，先專注哪三項技術最能入門Web前端",
+    "options": {
+      "A": "HTML、CSS、JavaScript",
+      "B": "C語言、Java、Python",
+      "C": "SQL、NoSQL、Redis",
+      "D": "PHP、Perl、Ruby"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "SEO搜尋引擎最佳化其中一個重點是",
+    "options": {
+      "A": "盡量全用圖片呈現內容",
+      "B": "避免任何文字",
+      "C": "使用語義化結構與正確標題階層",
+      "D": "只用動畫呈現"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "若使用大量輪播Banner (Carousel)，通常對UX有什麼影響",
+    "options": {
+      "A": "一定提升轉換率",
+      "B": "常被略過且可能降低效率",
+      "C": "一定增加停留時間",
+      "D": "一定提升效能"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "表單設計時，使用者輸入錯誤立即給予清楚訊息符合哪個理念",
+    "options": {
+      "A": "Good Error Message良好錯誤訊息",
+      "B": "資料庫正規化",
+      "C": "網路拓樸",
+      "D": "伺服器虛擬化"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若設計搜尋結果頁面需要排序與篩選功能，主要是提升哪一項",
+    "options": {
+      "A": "Scalability可擴充性",
+      "B": "Reliability可靠性",
+      "C": "Findability可尋性",
+      "D": "Security安全性"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "網站在不同頁保持相同導航位置與Logo呈現是什麼原則",
+    "options": {
+      "A": "資訊超載Redundancy Overload",
+      "B": "品牌與介面一致Branding Consistent",
+      "C": "資料庫一致性",
+      "D": "安全加密"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "對有障礙使用者來說，支援鍵盤操作與螢幕報讀屬於哪一類",
+    "options": {
+      "A": "WCAG無障礙標準",
+      "B": "圖像壓縮標準",
+      "C": "SEO排名規則",
+      "D": "金流規則"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若頁面元素過多導致使用者不知從哪看起，違反了哪個原則",
+    "options": {
+      "A": "儲存空間最大化",
+      "B": "資訊越多越好",
+      "C": "強調所有資訊",
+      "D": "Minimal Design簡約設計"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "將內容拆成短段落、小標、類別與列表有助於哪個UX面向",
+    "options": {
+      "A": "互動性",
+      "B": "Readability可讀性",
+      "C": "安全性",
+      "D": "延遲時間"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "電商平台結帳流程設計應優先考量",
+    "options": {
+      "A": "任務步驟清晰與最少化",
+      "B": "背景音樂多樣",
+      "C": "顏色越鮮豔越好",
+      "D": "動畫越多越好"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若網站將主要CTA(Call To Action) 放在顯眼區域，是為了",
+    "options": {
+      "A": "提升安全",
+      "B": "提升資料庫速度",
+      "C": "提升轉換率",
+      "D": "降低閱讀性"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "「使用者不需要記住上一頁內容，只需看當前畫面就能操作」符合哪個可用性原則",
+    "options": {
+      "A": "反轉控制Invert Control",
+      "B": "辨識優於回憶Recognition over Recall",
+      "C": "完全記憶優先",
+      "D": "高對比原則"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "設計表單時自動帶入先前輸入紀錄屬於哪種體驗設計",
+    "options": {
+      "A": "減少使用者重複工作、降低負荷",
+      "B": "Cognitive Offloading認知卸載",
+      "C": "增加錯誤率",
+      "D": "增加伺服器壓力"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "多數使用者習慣點Logo回首頁，這反映了哪個概念",
+    "options": {
+      "A": "Mental Model心智模型",
+      "B": "GPU Model顯示模型",
+      "C": "共同的使用習慣與預期",
+      "D": "電源管理"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "若一個網站標榜Mobile First，其開發流程較可能是",
+    "options": {
+      "A": "先做桌機再縮小到手機",
+      "B": "先設計手機版再擴展到平板與桌機",
+      "C": "只做APP不做Web",
+      "D": "只做桌機版本"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "RESTful API若設計良好，對前端開發者的好處是",
+    "options": {
+      "A": "更容易與後端穩定溝通",
+      "B": "一定有動畫效果",
+      "C": "不必測試",
+      "D": "只用在遊戲"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "在前端效能優化中「只在需要時才載入大量圖片」主要目的是",
+    "options": {
+      "A": "讓畫面顏色更鮮豔",
+      "B": "增加伺服器數量",
+      "C": "減少初次開啟時間與流量",
+      "D": "增加使用者記憶負擔"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "伺服器端渲染(Server Side Rendering, SSR) 的一個優點是",
+    "options": {
+      "A": "一定畫面較差",
+      "B": "初次載入較快且更有利SEO",
+      "C": "只能離線使用",
+      "D": "只能在桌機執行"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "若SPA需要兼顧SEO常用作法是",
+    "options": {
+      "A": "配合SSR或預先產生靜態頁面",
+      "B": "僅用大量圖片",
+      "C": "不使用任何Meta標籤",
+      "D": "關閉搜尋引擎"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "填寫表單時若即時顯示密碼強度條，代表系統提供哪種UX",
+    "options": {
+      "A": "Logging記錄",
+      "B": "紀錄瀏覽歷程",
+      "C": "Feedback即時回饋",
+      "D": "純視覺裝飾"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "若網站對行動網路使用者自動壓縮圖片與資源，此設計偏向",
+    "options": {
+      "A": "Performance Optimization性能優化",
+      "B": "Legal Policy法規優化",
+      "C": "僅品牌設計",
+      "D": "字型美感"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "若使用者在不知情下就替自己送出轉帳或刪除帳號等請求，主要風險是",
+    "options": {
+      "A": "未授權的請求在使用者不知情下被發送",
+      "B": "螢幕解析度下降",
+      "C": "網站變得更快",
+      "D": "字型變醜"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若網站只允許載入可信任來源的Script與圖片，其主要目的是",
+    "options": {
+      "A": "限制登入次數",
+      "B": "限制前端框架版本",
+      "C": "降低被嵌入惡意程式碼的機會",
+      "D": "讓畫面一定更漂亮"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "總結來說前端三核心對應關係最恰當的是",
+    "options": {
+      "A": "HTML負責資料",
+      "B": "CSS負責互動",
+      "C": "HTML負責結構，CSS負責視覺，JavaScript負責互動",
+      "D": "JavaScript負責伺服器"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "遊戲核心玩法設計良好但新手完全看不懂如何開始，主要缺少哪一部分",
+    "options": {
+      "A": "New Player Onboarding新手引導",
+      "B": "美術渲染",
+      "C": "伺服器同步",
+      "D": "付費機制"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "教學關卡若能讓玩家在安全環境中練習操作，屬於",
+    "options": {
+      "A": "提升Learnability可學習性",
+      "B": "提升GPU效能",
+      "C": "提升配樂品質",
+      "D": "提升價格"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "玩家每次動作都得到清楚視覺與音效回饋，屬於哪個概念",
+    "options": {
+      "A": "Physics Engine物理引擎",
+      "B": "AI Engine",
+      "C": "Feedback Loop回饋迴圈",
+      "D": "動態載入"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "若操作步驟過多導致玩家中途離開，代表哪個UX面向設計不佳",
+    "options": {
+      "A": "Efficiency效率以外面向",
+      "B": "Safety安全",
+      "C": "Graphics畫質",
+      "D": "Price價格"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "遊戲操作與一般動作常識相符，例如左搖桿移動右搖桿視角，屬於符合玩家的",
+    "options": {
+      "A": "Mental Model心智模型",
+      "B": "CPU Model晶片模型",
+      "C": "網路模型",
+      "D": "檔案模型"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若遊戲不提供任何完成提示，例如沒有Clear畫面或音效，會影響哪個概念",
+    "options": {
+      "A": "Sense of Progress進度感",
+      "B": "Reward System獎勵系統",
+      "C": "兩者皆受影響",
+      "D": "畫質設定"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "UI若能清楚顯示HP、MP等資訊，屬於哪個設計",
+    "options": {
+      "A": "Visibility of System Status系統狀態可見",
+      "B": "Match Real World貼近真實",
+      "C": "加密設計",
+      "D": "品牌設計"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "按鈕距離過近導致玩家常誤觸，與哪個理論最相關",
+    "options": {
+      "A": "Fitts Law費茲定律",
+      "B": "Hick Law希克定律",
+      "C": "牛頓定律",
+      "D": "費馬原理"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "遊戲在PC與Mobile版本操作手感保持一致是何種原則",
+    "options": {
+      "A": "Cross Platform Consistency跨平台一致",
+      "B": "Data Redundancy資料冗餘",
+      "C": "僅畫質優先",
+      "D": "只改語言"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "若玩家不用讀說明書就能理解介面設計，代表符合哪種特性",
+    "options": {
+      "A": "Intuitive UI直覺介面",
+      "B": "Procedural UI程式介面",
+      "C": "困難介面",
+      "D": "隱藏介面"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若遊戲要求玩家重複大量無意義操作，容易影響何者",
+    "options": {
+      "A": "Player Retention留存率",
+      "B": "GPU負載",
+      "C": "網路頻寬",
+      "D": "登入次數"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "主選單界面若分類清楚，如Play/Options/Exit，屬於",
+    "options": {
+      "A": "Shader設計",
+      "B": "Layout與Information Architecture資訊架構",
+      "C": "網路拓撲",
+      "D": "資料壓縮"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "在不同關卡中相同功能按鈕都用同顏色與位置表現，屬於",
+    "options": {
+      "A": "Consistency一致性",
+      "B": "Accessibility可及性",
+      "C": "Encryption加密性",
+      "D": "Randomness隨機性"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若難度曲線設計不良，前面太難後面太簡單會直接影響",
+    "options": {
+      "A": "Flow體驗",
+      "B": "網路速度",
+      "C": "解析度",
+      "D": "檔案大小"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "遊戲外觀畫面精美但操作邏輯混亂難懂，可評為",
+    "options": {
+      "A": "UI好UX差",
+      "B": "UX好UI差",
+      "C": "都優良",
+      "D": "都不佳"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "教學關卡漸進式解鎖功能，例如先學移動再學攻擊稱為",
+    "options": {
+      "A": "Progressive Tutorial漸進教學",
+      "B": "Hard Start Tutorial直接高難度",
+      "C": "隨機教學",
+      "D": "無教學"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若缺少任務指引Quest Log，玩家不知道接下來要做什麼，主要是",
+    "options": {
+      "A": "UX Navigation Flow導航流程問題",
+      "B": "Shader問題",
+      "C": "伺服器問題",
+      "D": "音效問題"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "玩家完成任務獲得成就Badge與Title屬於",
+    "options": {
+      "A": "Gamification遊戲化設計",
+      "B": "Data Mining資料探勘",
+      "C": "資料壓縮",
+      "D": "硬體加速"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "每次按同一按鈕產生不同結果容易破壞哪個UX特性",
+    "options": {
+      "A": "Predictability可預期性",
+      "B": "Overload過載",
+      "C": "美感",
+      "D": "A/B測試"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "把常用功能如Attack、Jump放在容易按到的位置，反映了哪個設計",
+    "options": {
+      "A": "Accessibility可達性",
+      "B": "Aesthetic美感",
+      "C": "Encryption加密",
+      "D": "隨機佈局"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "遊戲核心迴圈Core Loop通常包含哪些要素",
+    "options": {
+      "A": "關卡載入與存檔",
+      "B": "做動作、獲得回饋、強化動機",
+      "C": "只顯示廣告",
+      "D": "只換場景"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Game Loop遊戲主迴圈主要負責",
+    "options": {
+      "A": "處理更新邏輯與畫面渲染",
+      "B": "負責商業模式設計",
+      "C": "負責廣告排程",
+      "D": "負責機房溫度"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Free To Play (F2P) 遊戲中常搭配哪種貨幣化設計",
+    "options": {
+      "A": "僅提供單機買斷制",
+      "B": "只允許離線存檔",
+      "C": "道具內購與虛擬商店",
+      "D": "只調整解析度收費"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "設計良好的HUD (Head Up Display)抬頭顯示必須",
+    "options": {
+      "A": "資訊越多越好",
+      "B": "同時清楚且不干擾畫面",
+      "C": "一定放畫面中央",
+      "D": "完全透明"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "若玩家看著畫面就能預測敵人攻擊判定範圍，如紅圈提示屬於",
+    "options": {
+      "A": "Telegraphing攻擊預告",
+      "B": "Encryption攻擊加密",
+      "C": "音效壓縮",
+      "D": "資料隱藏"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若難度調整系統DDA能根據玩家表現自動微調難度，主要目標是",
+    "options": {
+      "A": "提升畫質",
+      "B": "降低運算",
+      "C": "維持Flow沉浸",
+      "D": "減少儲存空間"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "在多人遊戲中若介面清楚標示隊友位置與狀態，可提升",
+    "options": {
+      "A": "Team Awareness團隊覺知",
+      "B": "GPU Load負載",
+      "C": "雜訊",
+      "D": "價格"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "設計UI時使用Icon加文字Label組合主要是",
+    "options": {
+      "A": "提升可理解性與可記憶性",
+      "B": "降低可用性",
+      "C": "增加困惑",
+      "D": "僅為美術需求"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若玩家必須記住大量按鍵組合才能操作，違反哪個原則",
+    "options": {
+      "A": "Over Protection過度保護",
+      "B": "安全第一",
+      "C": "Recognition over Recall辨識優於回憶",
+      "D": "高畫質優先"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "在遊戲UX中Flow狀態指",
+    "options": {
+      "A": "電池運作",
+      "B": "玩家全神貫注且忘記時間",
+      "C": "UI渲染",
+      "D": "硬碟讀寫"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "遊戲測試中觀察玩家實際操作並記錄行為屬於",
+    "options": {
+      "A": "Usability Testing可用性測試",
+      "B": "Unit Testing單元測試",
+      "C": "壓力測試",
+      "D": "靜態分析"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "遊戲UX設計與哪個學科關係最密切",
+    "options": {
+      "A": "Psychology心理學",
+      "B": "Astronomy天文學",
+      "C": "Geology地質學",
+      "D": "Chemistry化學"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "長時間遊玩仍感到舒適愉快反映哪個指標較佳",
+    "options": {
+      "A": "Player Satisfaction滿意度",
+      "B": "Packet Loss網路流失",
+      "C": "解析度",
+      "D": "檔案大小"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "若UI更新太頻繁導致玩家每次登入都要重新學習，違反哪個原則",
+    "options": {
+      "A": "Consistency一致性",
+      "B": "Surprise驚喜",
+      "C": "Encryption加密性",
+      "D": "下載速度"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "良好遊戲UX最關鍵判準通常是",
+    "options": {
+      "A": "畫面是否最多粒子效果",
+      "B": "價格是否最低",
+      "C": "玩家是否願意持續遊玩",
+      "D": "伺服器是否最新"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "可用性測試中常觀察玩家完成任務所需時間，主要評估",
+    "options": {
+      "A": "Efficiency效率",
+      "B": "Aesthetics美感",
+      "C": "File Size檔案大小",
+      "D": "品牌認知"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "善用音效Cue提醒事件發生屬於",
+    "options": {
+      "A": "Over Rendering過度渲染",
+      "B": "Multi-Modal Feedback多通道回饋",
+      "C": "資料壓縮",
+      "D": "安全加密"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "若UI僅使用圖示未提供任何文字說明，容易造成",
+    "options": {
+      "A": "Icon Ambiguity圖示歧義",
+      "B": "Server Error伺服器錯誤",
+      "C": "網路中斷",
+      "D": "磁碟損壞"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Game Design Document (GDD)主要用途是",
+    "options": {
+      "A": "記錄遊戲設計細節與規格",
+      "B": "控制伺服器網路",
+      "C": "只管理美術",
+      "D": "只寫程式碼"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "遊戲UX的最終精神可概括為",
+    "options": {
+      "A": "以技術堆疊為中心",
+      "B": "以玩家體驗為中心",
+      "C": "以廣告為核心",
+      "D": "以難度為核心"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "XR體驗中若動作與畫面呈現有明顯延遲(Latency)，最會造成哪種問題",
+    "options": {
+      "A": "Motion Sickness動暈",
+      "B": "增加沉浸",
+      "C": "加強畫質",
+      "D": "完全無影響"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "XR(Extended Reality)延展實境的核心目標是",
+    "options": {
+      "A": "提供沉浸式互動體驗",
+      "B": "只增加畫質",
+      "C": "只降低價格",
+      "D": "只改UI配色"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "VR畫面更新率低於建議值(如低於90FPS)容易導致",
+    "options": {
+      "A": "順暢",
+      "B": "愉快",
+      "C": "暈眩與不適",
+      "D": "電量變高"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "若Head Tracking頭部追蹤與實際動作不同步，主要破壞哪項",
+    "options": {
+      "A": "Playback播放",
+      "B": "B-Immersion沉浸感",
+      "C": "Bandwidth頻寬",
+      "D": "音量大小"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "在AR擴增實境中虛擬物件疊加在真實世界之上，這種特性稱為",
+    "options": {
+      "A": "Overlay疊加",
+      "B": "Full Virtualization完全虛擬",
+      "C": "OnlyAudio僅音訊",
+      "D": "OnlyText僅文字"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若頭戴裝置HMD過重會影響哪一項",
+    "options": {
+      "A": "網路延遲",
+      "B": "GPU效能",
+      "C": "Comfort舒適度",
+      "D": "顏色數量"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "若位置追蹤Tracking不穩定，最直接影響哪項感受",
+    "options": {
+      "A": "Presence臨場感以外",
+      "B": "音量大小",
+      "C": "對比度",
+      "D": "解析度"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "完全將使用者沉浸於虛擬世界的技術稱為",
+    "options": {
+      "A": "Fully Immersive VR完全沉浸VR",
+      "B": "Desktop VR桌面VR",
+      "C": "2D VR",
+      "D": "簡報模式"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若XR系統沒有提供Guardian或Safety Boundary安全邊界提示，主要風險是",
+    "options": {
+      "A": "伺服器過熱",
+      "B": "僅畫質下降",
+      "C": "使用者可能碰撞真實物體",
+      "D": "音量變小"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "XR系統若能符合人類自然行為與空間感受，體現了哪種設計",
+    "options": {
+      "A": "Human-Centered Design以人為中心設計",
+      "B": "Hardware-Centered Design以硬體為中心",
+      "C": "成本導向設計",
+      "D": "品牌導向設計"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "使用者以手勢或自然動作操控系統屬於",
+    "options": {
+      "A": "NUI以外的介面",
+      "B": "Natural User Interface自然使用者介面",
+      "C": "Command Line Interface命令列",
+      "D": "GUI點擊介面"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "若XR系統讓使用者幾乎忘記現實環境，強烈感受到「身歷其境」稱為",
+    "options": {
+      "A": "High Presence高度臨場",
+      "B": "Low Presence低臨場",
+      "C": "No Presence無臨場",
+      "D": "False Presence錯覺臨場"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "MR混合實境的特色是",
+    "options": {
+      "A": "僅有虛擬世界",
+      "B": "僅有2D畫面",
+      "C": "虛擬與現實共存且可互動",
+      "D": "只有文字介面"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "長時間佩戴HMD時最需要考量",
+    "options": {
+      "A": "解析度",
+      "B": "Ergonomics人體工學",
+      "C": "網路頻寬",
+      "D": "顏色空間"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "為了讓使用者理解自己在空間中的位置，XR系統需提供",
+    "options": {
+      "A": "Spatial Awareness空間覺知",
+      "B": "Audio Mix音效混音",
+      "C": "檔案壓縮",
+      "D": "字型管理"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "XR在醫療訓練中可讓學生於虛擬環境練習手術，主要價值是",
+    "options": {
+      "A": "提高真實傷害",
+      "B": "增加風險",
+      "C": "提供安全可控的模擬",
+      "D": "只改UI顏色"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "在博物館中以AR導覽提供額外資訊屬於哪類應用",
+    "options": {
+      "A": "Cultural Heritage以外應用",
+      "B": "文化導覽",
+      "C": "C純教育",
+      "D": "EduOnly純教育"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "XR空間追蹤常使用的技術稱為",
+    "options": {
+      "A": "SLAM同步定位與建圖",
+      "B": "Path Tracing路徑追蹤",
+      "C": "Ray Tracing光線追蹤",
+      "D": "OnlyGPS定位"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若AR在顯示資訊時遮擋道路視線，將影響哪兩項",
+    "options": {
+      "A": "Safety安全與成本",
+      "B": "Cost成本與外觀",
+      "C": "Safety安全與Usability可用性",
+      "D": "品牌與Logo"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "XR中整合視覺、聽覺、觸覺回饋可提升哪種體驗",
+    "options": {
+      "A": "單一感官體驗",
+      "B": "Multisensory Immersion多感官沉浸",
+      "C": "成本控制",
+      "D": "程式可讀性"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "VR虛擬實境的核心特性是",
+    "options": {
+      "A": "完全以虛擬環境取代現實",
+      "B": "僅在手機上顯示文字",
+      "C": "僅顯示2D相片",
+      "D": "只改音樂"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "AR與VR最大的差異在於",
+    "options": {
+      "A": "AR只提供文字",
+      "B": "VR只提供聲音",
+      "C": "AR保留現實並疊加虛擬，而VR完全阻隔現實",
+      "D": "兩者完全相同"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "MR相較於一般AR多了什麼能力",
+    "options": {
+      "A": "只看不動",
+      "B": "虛實互動與遮擋關係",
+      "C": "僅顯示HUD",
+      "D": "僅錄影"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "若系統只追蹤頭部旋轉無法追蹤位置稱為",
+    "options": {
+      "A": "3DOF三自由度",
+      "B": "6DOF六自由度",
+      "C": "2DOF兩自由度",
+      "D": "1DOF單自由度"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "能同時追蹤位置XYZ與旋轉Yaw/Pitch/Roll的系統稱為",
+    "options": {
+      "A": "僅平移追蹤",
+      "B": "3DOF only",
+      "C": "6DOF追蹤",
+      "D": "Mono Tracking單一追蹤"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "在XR中FOV視角大小對體驗的影響是",
+    "options": {
+      "A": "視角越小越有包覆感",
+      "B": "視角越大越有包覆感",
+      "C": "與體驗無關",
+      "D": "只影響音量"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "若系統更新頻率低會導致影像模糊與暈眩，需提升什麼",
+    "options": {
+      "A": "Refresh Rate更新率",
+      "B": "Disk Speed磁碟速度",
+      "C": "Font Size字型大小",
+      "D": "色彩空間"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Guardian或Boundary系統的主要功能是",
+    "options": {
+      "A": "防止螢幕燒焦",
+      "B": "降低遊戲難度",
+      "C": "在使用者接近真實邊界時警示",
+      "D": "增加廣告"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "XR設計中盡量減少不必要資訊與操作，符合哪個原則",
+    "options": {
+      "A": "Over Decorate過度裝飾",
+      "B": "Reduce Cognitive Load降低認知負荷",
+      "C": "增加成本",
+      "D": "增加難度"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "若XR應用提供使用者主動操作與回饋，而不是純觀看影片，代表具有",
+    "options": {
+      "A": "Interactivity互動性",
+      "B": "Static View靜態觀看",
+      "C": "單向廣播",
+      "D": "唯讀模式"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "XR在教育應用中最大價值之一是",
+    "options": {
+      "A": "僅用於測驗",
+      "B": "僅提供文字講義",
+      "C": "提供體驗式Learning by Doing學中做",
+      "D": "只當作投影機"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "在工業訓練中使用VR模擬高風險場景可",
+    "options": {
+      "A": "增加事故",
+      "B": "避免真實危險並累積經驗",
+      "C": "提升成本",
+      "D": "只讓畫面更漂亮"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "醫療XR中以3D呈現器官與病灶屬於",
+    "options": {
+      "A": "Medical Visualization醫療視覺化",
+      "B": "Game Graphics遊戲圖像",
+      "C": "資料庫視覺化",
+      "D": "純文字報告"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若XR內容與真實物理世界規律相符，例如重力方向正確，會提升",
+    "options": {
+      "A": "Reality Consistency真實一致性",
+      "B": "Disk IO磁碟存取",
+      "C": "CPU溫度",
+      "D": "亮度"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "XR與HCI之間的關係為",
+    "options": {
+      "A": "XR只是硬體展示",
+      "B": "HCI與XR皆關注人與系統互動，XR是更沉浸的一種",
+      "C": "幾乎無關",
+      "D": "僅價格相關"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "XR設計最不能忽略的要素之一是",
+    "options": {
+      "A": "Safety安全",
+      "B": "只追求逼真不顧安全",
+      "C": "Resolution解析度",
+      "D": "Color Space色域"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若在XR環境中加入不合理延遲與突然畫面抖動會破壞哪種體驗",
+    "options": {
+      "A": "IO性能",
+      "B": "Pixel密度",
+      "C": "Presence臨場感",
+      "D": "成本結構"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "XR中的Locomotion移動方式(瞬移、平滑移動)設計會影響",
+    "options": {
+      "A": "Motion Sickness暈動症",
+      "B": "網頁速度",
+      "C": "程式碼可讀性",
+      "D": "伺服器數量"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "XR體驗設計中允許使用者適時休息與暫停，是為了減少",
+    "options": {
+      "A": "Fatigue疲勞",
+      "B": "Disk Usage磁碟使用",
+      "C": "伺服器CPU",
+      "D": "螢幕亮度"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "XR技術發展的核心精神可概括為",
+    "options": {
+      "A": "僅重視設備規格",
+      "B": "以人與情境為中心，而非只追逐硬體規格",
+      "C": "僅重視公司品牌",
+      "D": "只看畫質"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "XR系統中若感測與畫面更新延遲過高，主要影響哪項",
+    "options": {
+      "A": "系統穩定性一定提高",
+      "B": "Latency延遲會降低沉浸與舒適",
+      "C": "美術效果變好",
+      "D": "價格下降"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "XR系統架構中用來偵測位置與旋轉的核心是",
+    "options": {
+      "A": "Sensors and Tracking感測與追蹤",
+      "B": "CSS樣式",
+      "C": "Web Server網頁伺服器",
+      "D": "字型引擎"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Head Tracking頭部追蹤若與畫面不同步常導致",
+    "options": {
+      "A": "Motion Sickness暈眩",
+      "B": "沉浸感提升",
+      "C": "能耗下降",
+      "D": "音量變大"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "手部或控制器追蹤不準確會破壞",
+    "options": {
+      "A": "Natural Interaction自然互動",
+      "B": "畫面解析度",
+      "C": "網路帶寬",
+      "D": "伺服器儲存"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "XR系統必須知道使用者在空間中的位置與方向，這種能力稱為",
+    "options": {
+      "A": "Spatial Tracking空間追蹤",
+      "B": "Color Correction色彩修正",
+      "C": "Audio Mix音效混音",
+      "D": "Font Rendering字型渲染"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若空間追蹤位置不穩會同時影響",
+    "options": {
+      "A": "使用者信任、互動連續性與沉浸感",
+      "B": "資料壓縮率",
+      "C": "UI顏色",
+      "D": "登入次數"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "顯示器更新率Refresh Rate過低易造成",
+    "options": {
+      "A": "Judder畫面抖動與暈眩",
+      "B": "僅提升畫質",
+      "C": "降低功耗",
+      "D": "提升解析度"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "系統能精準追蹤手部骨架並辨識手勢屬於",
+    "options": {
+      "A": "Hand Tracking技術",
+      "B": "Shader Mapping著色映射",
+      "C": "Audio Mapping音效映射",
+      "D": "記憶體配置"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "XR若缺乏安全邊界Guardian或Chaperone系統會直接影響",
+    "options": {
+      "A": "UI美觀",
+      "B": "解析度",
+      "C": "Physical Safety實體安全",
+      "D": "背景音樂"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "為確保XR系統穩定運作需要",
+    "options": {
+      "A": "Hardware Performance硬體效能與Real-Time Rendering即時渲染",
+      "B": "廣告系統",
+      "C": "品牌行銷",
+      "D": "紙本說明書"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "常見手部追蹤技術包含",
+    "options": {
+      "A": "僅靠麥克風",
+      "B": "Depth Camera深度相機與IMU感測器",
+      "C": "僅靠GPS",
+      "D": "僅靠鍵盤"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "6DOF代表系統可追蹤",
+    "options": {
+      "A": "僅旋轉",
+      "B": "僅平移",
+      "C": "平移XYZ與旋轉Yaw/Pitch/Roll",
+      "D": "僅高度"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "僅能旋轉不能移動的VR裝置稱為",
+    "options": {
+      "A": "3DOF三自由度",
+      "B": "6DOF六自由度",
+      "C": "2DOF兩自由度",
+      "D": "無自由度"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "XR系統大量即時繪圖運算常仰賴",
+    "options": {
+      "A": "GPU圖形處理器",
+      "B": "DNS伺服器",
+      "C": "單核CPU",
+      "D": "磁碟"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "若刻意降低畫質以降低暈眩，是將哪個優先",
+    "options": {
+      "A": "User Comfort使用者舒適",
+      "B": "畫質優先",
+      "C": "價格優先",
+      "D": "品牌優先"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Inside-Out Tracking內向外追蹤中，頭戴裝置本身負責",
+    "options": {
+      "A": "透過機身攝影機偵測環境定位",
+      "B": "全靠外部基地台",
+      "C": "只靠GPS",
+      "D": "只靠加速度計"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若AR系統無法偵測平面Plane Detection將影響",
+    "options": {
+      "A": "虛擬物體放置與穩定性",
+      "B": "音樂播放程式",
+      "C": "啟動畫質設定",
+      "D": "登入速度"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Haptic Feedback觸覺回饋在XR中的角色是",
+    "options": {
+      "A": "壓縮網路",
+      "B": "提供震動或力回饋增強真實感",
+      "C": "僅負責畫質",
+      "D": "更換語言"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "若系統對使用者操作毫無回應或延遲過長，使用者可能",
+    "options": {
+      "A": "Lost in Interaction失去互動信心",
+      "B": "頭盔變輕",
+      "C": "GPU變強",
+      "D": "網路變快"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "XR系統設計時需優先考慮哪三者",
+    "options": {
+      "A": "User Safety安全、User Experience體驗、System Stability穩定",
+      "B": "僅考慮成本",
+      "C": "僅考慮畫質",
+      "D": "僅考慮品牌"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "感測器如IMU加速度計與陀螺儀在XR中主要用於",
+    "options": {
+      "A": "Motion Tracking動作追蹤",
+      "B": "播放音樂",
+      "C": "下載更新",
+      "D": "壓縮檔案"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "頭部追蹤精準度若不足最容易破壞",
+    "options": {
+      "A": "Immersion沉浸感",
+      "B": "Color Space色域",
+      "C": "Font字型",
+      "D": "磁碟容量"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "手部動作延遲約0.5秒會讓玩家覺得",
+    "options": {
+      "A": "互動不連貫與不自然",
+      "B": "UX提升",
+      "C": "音效錯誤變少",
+      "D": "畫質變高"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "維持穩定高幀率如90FPS以上主要有助於",
+    "options": {
+      "A": "提升噪點",
+      "B": "減少暈眩",
+      "C": "增加價格",
+      "D": "降低音量"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Predictive Tracking預測追蹤演算法的目的是",
+    "options": {
+      "A": "在顯示前預估位置以降低體感延遲",
+      "B": "增加雜訊",
+      "C": "改善音樂",
+      "D": "改變UI配色"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "XR安全機制包括哪些",
+    "options": {
+      "A": "Guardian邊界系統",
+      "B": "PassThrough透視模式",
+      "C": "以上皆是",
+      "D": "只改Logo"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "在狹小空間使用VR時要特別設定",
+    "options": {
+      "A": "音樂風格",
+      "B": "Boundary邊界與安全區域",
+      "C": "顏色飽和度",
+      "D": "檔案格式"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "支援手勢操作與自然動作輸入的系統屬於",
+    "options": {
+      "A": "Natural Interaction自然互動",
+      "B": "Forced Interaction強制互動",
+      "C": "Static UI靜態介面",
+      "D": "文字介面"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "多人共享同一XR環境需要",
+    "options": {
+      "A": "Networked XR網路連線XR",
+      "B": "單機XR",
+      "C": "影片XR",
+      "D": "離線PDF"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Multi-User多使用者XR體驗的關鍵技術之一是",
+    "options": {
+      "A": "State Synchronization狀態同步",
+      "B": "音樂同步",
+      "C": "價格同步",
+      "D": "Logo同步"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "工業XR常用於",
+    "options": {
+      "A": "Training Simulation訓練模擬",
+      "B": "僅娛樂",
+      "C": "僅廣告",
+      "D": "僅行銷"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "醫療XR價值包含",
+    "options": {
+      "A": "更安全的模擬",
+      "B": "可視化複雜結構",
+      "C": "以上皆是",
+      "D": "僅娛樂"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "在XR系統中降低錯誤操作與意外碰撞屬於",
+    "options": {
+      "A": "價格提升",
+      "B": "UX與Safety提升",
+      "C": "品牌提升",
+      "D": "畫質提升"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "虛擬物體在真實桌面上看起來穩定不漂浮，代表",
+    "options": {
+      "A": "Spatial Anchoring空間錨定良好",
+      "B": "Data Binding資料繫結正確",
+      "C": "只改材質",
+      "D": "網路順暢"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "XR系統設計最終精神可總結為",
+    "options": {
+      "A": "只為技術",
+      "B": "只為公司",
+      "C": "Technology for Human科技為人",
+      "D": "只為廣告"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "XR與HCI關係為",
+    "options": {
+      "A": "幾乎無關",
+      "B": "皆研究人機互動，只是XR更沉浸",
+      "C": "僅硬體相關",
+      "D": "只與廣告有關"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "在XR系統設計中不可忽略的三要素是",
+    "options": {
+      "A": "僅畫質",
+      "B": "僅品牌",
+      "C": "UX、安全與穩定",
+      "D": "僅下載速度"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "XR強調使用者在系統中的",
+    "options": {
+      "A": "Action and Interaction行動與互動",
+      "B": "Passive Viewing被動觀看",
+      "C": "靜態照片",
+      "D": "文字輸出"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "高Latency與Tracking Error通常造成",
+    "options": {
+      "A": "Dizziness不適感",
+      "B": "效率上升",
+      "C": "安全增強",
+      "D": "畫質提高"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "XR系統發展的核心精神可以概括為",
+    "options": {
+      "A": "Human-Centered XR以人為中心的XR",
+      "B": "Device-Centered XR以裝置為中心",
+      "C": "Company-Centered XR以公司為中心",
+      "D": "Cost-Centered XR以成本為中心"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "元宇宙Metaverse的一個核心特徵是",
+    "options": {
+      "A": "Persistent World以外",
+      "B": "持續存在的世界",
+      "C": "PureOffline僅單機離線",
+      "D": "僅短期活動"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "使用者在虛擬世界中的虛擬分身稱為",
+    "options": {
+      "A": "Avatar虛擬化身",
+      "B": "Digital Twin數位分身",
+      "C": "Account帳號",
+      "D": "Guest訪客"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "元宇宙若允許多人同時在線互動與協作屬於",
+    "options": {
+      "A": "Single Player單人",
+      "B": "Local Only本地",
+      "C": "Multi-User Shared Space多使用者共享空間",
+      "D": "OnlyAI僅AI"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "若在虛擬世界擁有可持續保存與交易的虛擬物品代表具有",
+    "options": {
+      "A": "Virtual Asset以外",
+      "B": "Ephemeral Data暫時資料",
+      "C": "Virtual Asset虛擬資產",
+      "D": "Cache暫存"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "即使使用者下線虛擬世界仍持續運作稱為",
+    "options": {
+      "A": "Persistence持續性",
+      "B": "Realtime即時性",
+      "C": "Local Storage本地儲存",
+      "D": "Session Based工作階段"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "元宇宙被視為不只是遊戲還包含哪些面向",
+    "options": {
+      "A": "Social社交",
+      "B": "Economy經濟",
+      "C": "Education教育",
+      "D": "以上皆是"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "虛擬物品可交易並有經濟價值是何種系統",
+    "options": {
+      "A": "Virtual Economy虛擬經濟",
+      "B": "Image System圖像系統",
+      "C": "Cache System快取系統",
+      "D": "測試系統"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "使用者可透過語音、文字、動作與他人互動是",
+    "options": {
+      "A": "Rendering渲染",
+      "B": "Social Interaction社交互動",
+      "C": "Encoding編碼",
+      "D": "資料壓縮"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若虛擬身份可在不同平台或場景沿用代表",
+    "options": {
+      "A": "Interoperability互通性",
+      "B": "Isolation隔離性",
+      "C": "Encryption加密性",
+      "D": "單機模式"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "元宇宙與傳統Web網站最大差異之一是強調",
+    "options": {
+      "A": "Immersive Interactive Experience沉浸互動體驗",
+      "B": "圖片數量較多",
+      "C": "價格較貴",
+      "D": "僅用於廣告"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "VR常被視為元宇宙入口因能提供",
+    "options": {
+      "A": "High Immersion高度沉浸",
+      "B": "Only 2D僅2D",
+      "C": "Only Text僅文字",
+      "D": "Low Latency低延遲"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "AR在元宇宙中能做到",
+    "options": {
+      "A": "僅提供文字",
+      "B": "僅提升畫質",
+      "C": "將虛擬資訊與現實場景結合",
+      "D": "只播放音樂"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "若虛擬世界只能觀看無法互動則缺乏",
+    "options": {
+      "A": "Interactivity互動性",
+      "B": "Resolution解析度",
+      "C": "容量",
+      "D": "資料庫"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "若使用者可自行創造場景、物件與內容稱為",
+    "options": {
+      "A": "UGC使用者生成內容",
+      "B": "PGC專業生成內容",
+      "C": "NGC無內容",
+      "D": "DLC下載內容"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "元宇宙與傳統社群平台不同之處在於",
+    "options": {
+      "A": "只能傳文字",
+      "B": "只能看照片",
+      "C": "更高的Immersion沉浸與Presence存在感",
+      "D": "只能匿名"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "元宇宙經濟價值主要來自",
+    "options": {
+      "A": "User Activity & Transactions使用行為與交易",
+      "B": "僅靠公司補貼",
+      "C": "僅廣告",
+      "D": "僅硬體銷售"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "使用者在元宇宙中擁有可驗證的虛擬資產與身份接近",
+    "options": {
+      "A": "Digital Ownership數位所有權",
+      "B": "System Default系統預設",
+      "C": "暫存檔",
+      "D": "快取"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若希望虛擬資產紀錄不只由單一公司控制，常會談到哪些概念",
+    "options": {
+      "A": "Decentralization去中心化",
+      "B": "Blockchain區塊鏈",
+      "C": "以上兩者都常被提到",
+      "D": "提高螢幕解析度"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "若虛擬物品完全無法跨平台轉移會限制",
+    "options": {
+      "A": "Interoperability互通性",
+      "B": "Immersion沉浸",
+      "C": "Audio Quality音質",
+      "D": "安全加密"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "元宇宙的長期願景可概括為",
+    "options": {
+      "A": "建立持續可互動的虛擬延伸世界",
+      "B": "建立單次活動空間",
+      "C": "建立靜態網頁",
+      "D": "建立廣告專區"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "元宇宙在教育應用上可用於",
+    "options": {
+      "A": "Virtual Field Trip虛擬校外教學",
+      "B": "提高作業量",
+      "C": "僅增加娛樂",
+      "D": "僅製造噪音"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "商業上元宇宙可提供",
+    "options": {
+      "A": "Virtual Showroom虛擬展間",
+      "B": "傳統海報印刷",
+      "C": "純文字目錄",
+      "D": "僅語音客服"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "元宇宙社交空間強調",
+    "options": {
+      "A": "Sense of Presence與Co-Presence共同存在感",
+      "B": "僅文字訊息",
+      "C": "僅圖片分享",
+      "D": "僅按讚"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "元宇宙發展的技術挑戰之一是",
+    "options": {
+      "A": "內容太少成本低",
+      "B": "高建置與維運成本High Infrastructure Cost",
+      "C": "無人使用的問題不存在",
+      "D": "太便宜"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "元宇宙核心精神可概括為",
+    "options": {
+      "A": "Human-Centered Virtual Extension以人為中心的虛擬延伸",
+      "B": "Tech Only以技術為主",
+      "C": "Brand Only以品牌為主",
+      "D": "Ad Only以廣告為主"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若系統能從資料經驗中自動調整判斷規則最接近哪個概念",
+    "options": {
+      "A": "Artificial Intelligence一般AI",
+      "B": "機器學習Machine Learning",
+      "C": "資料庫運算",
+      "D": "網路工程"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "人工智慧的核心目標是",
+    "options": {
+      "A": "讓機器執行類似人類智慧行為",
+      "B": "僅提升網路速度",
+      "C": "僅降電腦成本",
+      "D": "僅增加畫質"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "若系統在多次嘗試後逐漸改善決策策略屬於",
+    "options": {
+      "A": "Machine Learning學習而非固定規則",
+      "B": "Static Programming靜態程式",
+      "C": "Rendering渲染",
+      "D": "資料壓縮"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "傳統程式與AI系統最大差異在於",
+    "options": {
+      "A": "傳統程式可自行學習",
+      "B": "AI可從資料中學習與調整",
+      "C": "AI僅更耗電",
+      "D": "AI只做動畫"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "能辨識圖像中物體例如貓狗紅綠燈屬於",
+    "options": {
+      "A": "Computer Vision電腦視覺",
+      "B": "Speech Recognition語音辨識",
+      "C": "NLP自然語言處理",
+      "D": "資料探勘"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "語音助理能聽懂口說指令屬於",
+    "options": {
+      "A": "Automatic Speech Recognition ASR自動語音辨識",
+      "B": "自駕演算法",
+      "C": "XR圖形",
+      "D": "NLP文字分析"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Chatbot能理解文字並給出合理回應屬於",
+    "options": {
+      "A": "NLP以外領域",
+      "B": "Natural Language Processing自然語言處理",
+      "C": "Computer Graphics",
+      "D": "CG"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "從大量資料中自動找出規律與模式是",
+    "options": {
+      "A": "Machine Learning機器學習",
+      "B": "Data Entry資料輸入",
+      "C": "Manual Label人工標註",
+      "D": "排版設計"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Supervised Learning監督式學習的特徵是",
+    "options": {
+      "A": "完全無資料",
+      "B": "僅影像輸入",
+      "C": "使用已標註資料Labelled Data",
+      "D": "只靠人類直覺"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Unsupervised Learning常用於",
+    "options": {
+      "A": "直接產生正確答案",
+      "B": "Clustering與Pattern Discovery分群與找模式",
+      "C": "硬體控制",
+      "D": "網路架設"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Reinforcement Learning強化學習常見於",
+    "options": {
+      "A": "Game AI與自動控制",
+      "B": "僅做排序",
+      "C": "僅畫圖",
+      "D": "只做翻譯"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "AlphaGo等棋類AI主要結合",
+    "options": {
+      "A": "隨機猜測",
+      "B": "Random Guess",
+      "C": "人類遙控",
+      "D": "Search搜尋與Deep Learning深度學習"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "偵測臉部表情判斷情緒屬於",
+    "options": {
+      "A": "Affective Computing情感計算",
+      "B": "影像壓縮",
+      "C": "純資料庫操作",
+      "D": "檔案管理"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "自駕車AI需要同時整合哪些能力",
+    "options": {
+      "A": "感知、決策、控制",
+      "B": "僅感知",
+      "C": "僅決策",
+      "D": "僅控制"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "影音平台推薦影片主要依賴",
+    "options": {
+      "A": "手工整理",
+      "B": "隨機播放",
+      "C": "Recommendation System推薦系統",
+      "D": "硬體效能"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "若訓練資料中對某族群有不公平標籤容易產生",
+    "options": {
+      "A": "Algorithmic Bias演算法偏誤",
+      "B": "一定更公平",
+      "C": "一定更高效",
+      "D": "完全無影響"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "AI偏誤Bias常來自哪裡",
+    "options": {
+      "A": "Data本身與設計者假設",
+      "B": "軟體介面",
+      "C": "顯示器大小",
+      "D": "鍵盤種類"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "在AI決策系統中需重視什麼",
+    "options": {
+      "A": "Fairness公平或透明其中之一",
+      "B": "Fairness公平、Accountability責任、Transparency透明",
+      "C": "只重視速度",
+      "D": "只重視畫質"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "「AI不應完全取代人類最後決策」屬於哪個議題",
+    "options": {
+      "A": "AI Ethics人工智慧倫理",
+      "B": "硬體問題",
+      "C": "排版問題",
+      "D": "作業系統問題"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "使用AI處理個資時必須考慮",
+    "options": {
+      "A": "Privacy隱私",
+      "B": "Security安全",
+      "C": "以上皆是",
+      "D": "僅畫質"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "AI與人類合作最理想關係是",
+    "options": {
+      "A": "Human-AI Collaboration人機協作",
+      "B": "Complete Replacement完全取代",
+      "C": "Mutual Exclusion互斥",
+      "D": "彼此無關"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "AI最適合協助的工作類型是",
+    "options": {
+      "A": "重複且大量資料的工作",
+      "B": "感情處理",
+      "C": "純藝術創作",
+      "D": "無規律小樣本"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "在醫療中AI輔助診斷的角色是",
+    "options": {
+      "A": "唯一決策者",
+      "B": "Data Storage資料儲存",
+      "C": "Decision Support決策支援而非唯一決策",
+      "D": "只做排版"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "在產業應用中AI最直接帶來的效益常是",
+    "options": {
+      "A": "降低互動",
+      "B": "提升效率與自動化",
+      "C": "完全取代人",
+      "D": "增加雜訊"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "AI與HCI共同目標是",
+    "options": {
+      "A": "讓科技更貼近人，而非讓人完全適應科技",
+      "B": "讓科技更複雜",
+      "C": "讓科技更昂貴",
+      "D": "只為廣告"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "問「AI是否等同真正智慧」較合理回答是",
+    "options": {
+      "A": "不必討論一定智慧",
+      "B": "AI一定超越所有人",
+      "C": "不是，只是基於資料與模型的計算結果",
+      "D": "等同人類情感"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Explainable AI可解釋AI的重點是",
+    "options": {
+      "A": "模型必須完全黑箱",
+      "B": "模型決策過程需可被理解與檢視",
+      "C": "只看輸出即可",
+      "D": "只管速度"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "機器學習需要大量資料的主因是",
+    "options": {
+      "A": "Data Diversity增加泛化能力",
+      "B": "找圖片比較好玩",
+      "C": "僅減少硬體",
+      "D": "只為行銷"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "AI是否永遠正確",
+    "options": {
+      "A": "一定正確",
+      "B": "一定錯誤",
+      "C": "取決於資料品質、模型設計與使用情境",
+      "D": "只看硬體"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "AI在教育應用的潛力之一是",
+    "options": {
+      "A": "自動升級硬體",
+      "B": "Adaptive Learning自適應學習",
+      "C": "降低互動",
+      "D": "只給作業"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Neural Network神經網路的概念靈感來自",
+    "options": {
+      "A": "Human Brain人腦",
+      "B": "伺服器機房",
+      "C": "電池",
+      "D": "晶片封裝"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "AI運作主要依賴三要素",
+    "options": {
+      "A": "Data資料、Algorithm演算法、Compute計算資源",
+      "B": "僅GPU數量",
+      "C": "僅網路頻寬",
+      "D": "僅電池容量"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "多數ML模型需持續更新原因是",
+    "options": {
+      "A": "不需更新永遠正確",
+      "B": "環境與資料會改變",
+      "C": "讓版本號看起來多",
+      "D": "增加檔案大小"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "若訓練資料標註錯誤嚴重將導致",
+    "options": {
+      "A": "Model Misleading模型誤導",
+      "B": "自動修正到完美",
+      "C": "一定不受影響",
+      "D": "變成資料庫"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "發展AI時通常需同時考量哪些面向",
+    "options": {
+      "A": "僅技術",
+      "B": "僅社會",
+      "C": "Technology技術、Society社會與Ethics倫理",
+      "D": "僅成本"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "使用AI做關鍵決策時一個風險是",
+    "options": {
+      "A": "Wrong Decision錯誤決策可能造成實際傷害",
+      "B": "一定更安全",
+      "C": "完全無風險",
+      "D": "只影響畫質"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "AI最擅長處理的問題通常是",
+    "options": {
+      "A": "純創意藝術",
+      "B": "大量結構化或半結構化資料問題",
+      "C": "完全無規律小樣本",
+      "D": "只處理聲音"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "AI是否應該完全取代人類，多數觀點認為",
+    "options": {
+      "A": "一定取代人",
+      "B": "完全不需要AI",
+      "C": "多數情境下應以Augment人類能力為主而非Full Replace完全取代",
+      "D": "只看成本決定"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "從工程角度看AI本質是一種",
+    "options": {
+      "A": "Tool工具可被人使用",
+      "B": "Weapon必然危險",
+      "C": "Absolute Control絕對控制",
+      "D": "隨機產物"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "負責任的AI發展應以何者為核心",
+    "options": {
+      "A": "Human-Centered AI以人為中心",
+      "B": "Tech-Centered AI以技術為中心",
+      "C": "Cost-Centered AI以成本為中心",
+      "D": "Speed-Centered以速度為中心"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "影音平台根據觀看紀錄推薦影片屬於哪種AI應用",
+    "options": {
+      "A": "內容審查Content Moderation",
+      "B": "Recommender System推薦系統",
+      "C": "電腦視覺Computer Vision",
+      "D": "網路優化Network Optimization"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "線上學習平台依學生作答自動調整題目難度屬於",
+    "options": {
+      "A": "Personalized Learning個人化學習",
+      "B": "Static Course靜態課程",
+      "C": "Manual Assignment人工派題",
+      "D": "Fixed Syllabus固定課綱"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "使用Generative AI創作圖片時需特別注意",
+    "options": {
+      "A": "Deep Link連結",
+      "B": "Battery電量",
+      "C": "Copyright版權與素材來源",
+      "D": "解析度過高"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "系統將文字腳本直接轉為旁白聲音屬於",
+    "options": {
+      "A": "Text-to-Speech文字轉語音",
+      "B": "Speech-to-Text語音轉文字",
+      "C": "機器翻譯",
+      "D": "M影像敘述"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "語音輸入功能將使用者說話轉成文字屬於",
+    "options": {
+      "A": "Speech-to-Text語音轉文字",
+      "B": "Text-to-Speech文字轉語音",
+      "C": "物件偵測",
+      "D": "Object Detection"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "手機相機自動辨識人臉並虛擬上妝屬於哪兩種技術結合",
+    "options": {
+      "A": "Chatbot加NLP",
+      "B": "AR加文字探勘",
+      "C": "Computer Vision電腦視覺與Face Detection人臉偵測",
+      "D": "資料庫加壓縮"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "社群平台利用AI自動偵測暴力或不當內容屬於",
+    "options": {
+      "A": "Content Moderation內容審查",
+      "B": "Recommender System推薦系統",
+      "C": "路徑規劃",
+      "D": "Route Planning"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "音樂APP依聆聽習慣推薦歌單重視哪個指標",
+    "options": {
+      "A": "User Preference使用者偏好",
+      "B": "Device ID裝置編號",
+      "C": "IP位置",
+      "D": "螢幕尺寸"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "電商平台以AI預測下週銷量屬於",
+    "options": {
+      "A": "Demand Forecasting需求預測",
+      "B": "去背Background Removal",
+      "C": "Face Filter濾鏡",
+      "D": "執行緒排程"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "AI自動為圖片加上說明文字屬於",
+    "options": {
+      "A": "Image Captioning影像描述",
+      "B": "Object Tracking物件追蹤",
+      "C": "機器翻譯",
+      "D": "資料壓縮"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "遊戲中AI根據玩家表現調整敵人強度屬於",
+    "options": {
+      "A": "Dynamic Difficulty Adjustment動態難度調整",
+      "B": "Fixed AI固定難度",
+      "C": "Random Level隨機關卡",
+      "D": "純手動調整"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "AI自動產生新聞摘要屬於",
+    "options": {
+      "A": "Text Summarization文本摘要",
+      "B": "Text-to-Speech文字轉語音",
+      "C": "Image Generation影像生成",
+      "D": "資料刪除"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "客服Chatbot在客服流程中最適合處理哪種任務",
+    "options": {
+      "A": "高風險決策",
+      "B": "FAQ常見問題",
+      "C": "法律判決",
+      "D": "手術規劃"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "廣告投放系統用AI決定哪則廣告給哪位使用者主要目標是",
+    "options": {
+      "A": "提升Click Through Rate點擊率",
+      "B": "降低畫質",
+      "C": "增加延遲",
+      "D": "減少內容"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "使用AI自動標註影片中的物件與場景主要便利後續",
+    "options": {
+      "A": "Search & Index搜尋與索引",
+      "B": "省電",
+      "C": "Battery Saving",
+      "D": "模式切換Mode Switch"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "AI語音合成若使用真實人物聲音需特別注意",
+    "options": {
+      "A": "僅影像解析度",
+      "B": "Voice Cloning聲紋複製引發的倫理與同意問題",
+      "C": "網路速度",
+      "D": "裝置重量"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "使用AI過濾垃圾郵件Spam Filtering的主要依據為",
+    "options": {
+      "A": "內容特徵與寄信行為",
+      "B": "寄件者顏色",
+      "C": "裝置品牌",
+      "D": "時間格式"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "自動標記不當留言時最重要的平衡是",
+    "options": {
+      "A": "僅看效率",
+      "B": "僅看成本",
+      "C": "Moderation效率與表達自由Freedom of Expression的平衡",
+      "D": "只刪除全部留言"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "教育影片平台若只追求黏著度推薦內容，可能造成",
+    "options": {
+      "A": "Filter Bubble過濾泡泡",
+      "B": "Open Access開放存取",
+      "C": "Multi-Factor登入",
+      "D": "流量下降"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "語音助理同時結合ASR、NLP與TTS，可視為何種介面",
+    "options": {
+      "A": "End-to-End Voice Interface端到端語音介面",
+      "B": "Single Module System單模組系統",
+      "C": "GPU Only系統",
+      "D": "純鍵盤介面"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "將大量產品評論用AI自動判斷正負情緒屬於",
+    "options": {
+      "A": "Sentiment Analysis情緒分析",
+      "B": "Object Detection物件偵測",
+      "C": "Game AI遊戲AI",
+      "D": "路徑規劃"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "影片平台若使用AI自動產生縮圖Thumbnail Generation，主要目的是",
+    "options": {
+      "A": "降低解析度",
+      "B": "提升點擊率與吸引力",
+      "C": "減少伺服器數量",
+      "D": "改變字幕"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "AI輔助影片剪輯自動挑出精彩片段常結合哪兩項技術",
+    "options": {
+      "A": "Highlight Detection與Scene Segmentation",
+      "B": "Hand Tracking與Pose估計",
+      "C": "Path Finding與Routing",
+      "D": "語音壓縮與編碼"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "使用AI自動翻譯字幕時較好的做法是",
+    "options": {
+      "A": "Machine Translation搭配Human Review人工複核",
+      "B": "完全不用AI",
+      "C": "全自動無需檢查",
+      "D": "只靠機器投票"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "在多媒體與創作領域中負責任使用AI的核心精神是",
+    "options": {
+      "A": "Human不重要",
+      "B": "以人為中心的創作輔助Human-Centered Creation",
+      "C": "Tech Only只看技術",
+      "D": "Data Only只看資料"
+    },
+    "answer": "B"
+  }
+]
